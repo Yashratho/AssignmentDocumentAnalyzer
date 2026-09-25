@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific config with real API keys — NEVER commit this
+src/DocumentAnalyzer.ConsoleApp/appsettings.json
+
+# Keep the example file (no real keys)
+!src/DocumentAnalyzer.ConsoleApp/appsettings.example.json
+
+# VS / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# dotnet
+*.nupkg

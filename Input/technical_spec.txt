@@ -1,0 +1,49 @@
+PROJECT: Central Hospital HVAC Upgrade
+
+PROJECT INFORMATION
+Project Name: Central Hospital HVAC Upgrade
+Discipline: Mechanical
+System: Chilled Water System
+
+PIPE SPECIFICATIONS
+1. Chilled Water Supply Pipe
+   Material: Carbon Steel
+   Diameter: 100 mm
+   Pressure Rating: PN16
+   Length: 25.5 m
+
+2. Chilled Water Return Pipe
+   Material: Carbon Steel
+   Diameter: 80 mm
+   Pressure Rating: PN16
+   Length: 22.0 m
+
+3. Drain Pipe
+   Material: PVC
+   Diameter: 50 mm
+   Pressure Rating: PN10
+   Length: 15.0 m
+
+EQUIPMENT
+1. Equipment Type: Circulation Pump
+   Manufacturer: Acme Pumps
+   Model: CP-200
+
+2. Equipment Type: Control Valve
+   Manufacturer: FlowTech
+   Model: CV-10
+
+INSULATION
+Insulation material: Elastomeric rubber
+Insulation thickness: 50 mm
+
+TECHNICAL REQUIREMENTS
+1. The chilled water supply temperature shall be maintained between 6°C and 8°C.
+
+2. All pipes with a diameter greater than 80 mm shall be insulated.
+
+3. Equipment information must include manufacturer and model.
+
+4. The system documentation shall identify the material and pressure rating for each pipe.
+
+END OF SPECIFICATION
